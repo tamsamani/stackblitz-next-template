@@ -1,7 +1,8 @@
 {
   "name": "stackblitz-next-template",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a tempalte using NextJs and various utilities in stackblitz",
+  "author": "tamsamani <tamsmoha@gmail.com>",
   "license" : "MIT",
   "scripts": {
     "dev": "next",
